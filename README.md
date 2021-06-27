@@ -1,6 +1,6 @@
-👋 Hi, I’m @Dizorov
-👀 I’m interested in front-end
-🌱 I’m currently learning ReactJS
+ 👋 Hi, I’m @Dizorov
+ 👀 I’m interested in front-end
+ 🌱 I’m currently learning ReactJS
 
 <!---
 Dizorov/Dizorov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
