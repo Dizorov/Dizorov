@@ -1,5 +1,5 @@
- 👋 Hi, I’m @Dizorov
- 👀 I’m interested in front-end
+ 👋 Hi, I’m @Dizorov <br/>
+ 👀 I’m interested in front-end <br/>
  🌱 I’m currently learning ReactJS
 
 <!---
